@@ -2,210 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbce8d4b-7af6-43cb-8a68-fbdd2204dde7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Testeopencv.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/captura_foto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cascades/cars.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cascades/haarcascade_eye.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cascades/haarcascade_frontalcatface.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cascades/haarcascade_frontalface_default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cascades/relogios.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classificadores/classificadorEigen.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classificadores/classificadorFisher.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classificadores/classificadorLBPH.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.1.1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.1.10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.1.11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.1.12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.1.13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.1.14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.1.15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.1.16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.1.17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.1.18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.1.19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.1.2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.1.20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.1.21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.1.22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.1.23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.1.24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.1.25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.1.3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.1.4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.1.5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.1.6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.1.7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.1.8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.1.9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.2.1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.2.10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.2.11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.2.12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.2.13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.2.14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.2.15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.2.16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.2.17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.2.18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.2.19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.2.2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.2.20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.2.21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.2.22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.2.23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.2.24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.2.25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.2.3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.2.4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.2.5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.2.6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.2.7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.2.8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos/pessoa.2.9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.1.1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.1.10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.1.11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.1.12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.1.13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.1.14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.1.15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.1.16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.1.17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.1.18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.1.19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.1.2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.1.20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.1.21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.1.22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.1.23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.1.24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.1.25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.1.3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.1.4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.1.5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.1.6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.1.7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.1.8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.1.9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.2.10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.2.11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.2.12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.2.13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.2.14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.2.15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.2.16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.2.17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.2.18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.2.19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.2.2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.2.20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.2.21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.2.22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.2.23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.2.24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.2.25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.2.3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.2.4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.2.5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.2.6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.2.7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.2.8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.2.9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.3.1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.3.10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.3.11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.3.12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.3.13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.3.14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.3.15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.3.16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.3.17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.3.18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.3.19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.3.2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.3.20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.3.21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.3.22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.3.23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.3.24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.3.25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.3.3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.3.4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.3.5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.3.6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.3.7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.3.8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_old/pessoa.3.9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.1.1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.1.10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.1.11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.1.12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.1.13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.1.14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.1.15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.1.16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.1.17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.1.18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.1.19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.1.2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.1.20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.1.21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.1.22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.1.23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.1.24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.1.25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.1.3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.1.4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.1.5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.1.6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.1.7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.1.8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.1.9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.2.1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.2.10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.2.11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.2.12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.2.13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.2.14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.2.15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.2.16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.2.17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.2.18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.2.19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.2.2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.2.20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.2.21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.2.22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.2.23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.2.24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.2.25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.2.3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.2.4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.2.5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.2.6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.2.7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.2.8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.2.9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pessoas/beatles.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pessoas/faceolho.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pessoas/olho.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pessoas/opencv-python.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pessoas/pessoas1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pessoas/pessoas2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pessoas/pessoas3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pessoas/pessoas4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reconhecedor_LBPH.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reconhecedor_eigenfaces.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reconhecedor_fisherface.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/showfoto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treinamento.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.3.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.3.10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.3.11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.3.12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.3.13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.3.14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.3.15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.3.16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.3.17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.3.18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.3.19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.3.2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.3.20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.3.21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.3.22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.3.23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.3.24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.3.25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.3.3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.3.4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.3.5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.3.6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.3.7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.3.8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos_treino/pessoa.3.9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Testeopencv.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Testeopencv.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/captura_foto.py" beforeDir="false" afterPath="$PROJECT_DIR$/captura_foto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classificadores/classificadorEigen.yml" beforeDir="false" afterPath="$PROJECT_DIR$/classificadores/classificadorEigen.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classificadores/classificadorFisher.yml" beforeDir="false" afterPath="$PROJECT_DIR$/classificadores/classificadorFisher.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classificadores/classificadorLBPH.yml" beforeDir="false" afterPath="$PROJECT_DIR$/classificadores/classificadorLBPH.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/showfoto.py" beforeDir="false" afterPath="$PROJECT_DIR$/showfoto.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -223,11 +53,20 @@
   </component>
   <component name="ProjectId" id="1T9zMeuts3j1xvqkWKNMjFcmmmJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/TwilioTeste" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\FlavioRabelo\Documents\Python\Testeopencv\fotos_treino" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/classificadores" />
       <recent name="C:\Python\Testeopencv\classificadores" />
@@ -235,20 +74,8 @@
       <recent name="C:\Python\Testeopencv" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.reconhecedor_fisherface">
-    <configuration name="captura_foto" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.reconhecedor_LBPH">
+    <configuration name="captura_foto (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Testeopencv" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -269,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="reconhecedor_LBPH" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="reconhecedor_LBPH" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Testeopencv" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -290,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="reconhecedor_eigenfaces" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="reconhecedor_eigenfaces" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Testeopencv" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -311,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="reconhecedor_fisherface" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="reconhecedor_fisherface (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Testeopencv" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -332,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="treinamento" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="treinamento" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Testeopencv" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -355,13 +182,25 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.reconhecedor_fisherface" />
-        <item itemvalue="Python.reconhecedor_eigenfaces" />
         <item itemvalue="Python.reconhecedor_LBPH" />
+        <item itemvalue="Python.reconhecedor_eigenfaces" />
+        <item itemvalue="Python.reconhecedor_fisherface (2)" />
         <item itemvalue="Python.treinamento" />
-        <item itemvalue="Python.captura_foto" />
+        <item itemvalue="Python.captura_foto (1)" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -381,10 +220,46 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1579023633954">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1579023633954" />
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1578677093049">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1578677093049" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1578677093048">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1578677093048" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1578677093048">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1578677093048" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1578677093048">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1578677093048" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1579106885684">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1579106885684" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1579106633740">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1579106633740" />
+    <state x="0" y="0" width="737" height="728" key="find.popup" timestamp="1578674183079">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" width="737" height="728" key="find.popup/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1578674183079" />
   </component>
 </project>

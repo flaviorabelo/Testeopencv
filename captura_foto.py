@@ -8,7 +8,7 @@ camera = cv2.VideoCapture(0)
 amostra = 1
 numeroAmostras = 25
 id = input('Digite seu Identificador: ')
-largura, altura = 220, 220
+largura, altura = 220, 2205
 print('Capturando Fotos...')
 
 while True:
@@ -20,7 +20,7 @@ while True:
     for (x, y , l, a) in facesDetectadas:
         cv2.rectangle(frame, (x, y), (x + l, y + a), (0, 0, 255), 2)
         if cv2.waitKey(1)  == ord('q'):
-            if np.average(imagemCinza) > 110:
+            if np.average(imagemCinza) > 50:
                 imagemFace = cv2.resize(imagemCinza[y:y + a, x:x + l], (largura, altura))
                 cv2.imwrite('fotos/pessoa.' + str(id) + '.' + str(amostra) + '.jpg', imagemFace)
                 print('[foto ' + str(amostra) + ' capturada com sucesso]')

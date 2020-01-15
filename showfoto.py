@@ -1,6 +1,7 @@
 import cv2
 import os
 import numpy as np
+import kivy
 
 
 caminhos = [os.path.join('fotos', f) for f in os.listdir('fotos')]
